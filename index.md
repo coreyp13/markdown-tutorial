@@ -8,7 +8,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 '''
 #### Medium words
 - [x] Turn on GitHub Pages
-- [x] This item is complete
-- [ ] This item is not complete
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ##### Small words
 ###### Smallest words
