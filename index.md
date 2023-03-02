@@ -7,5 +7,8 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 '''
 #### Medium words
+- [x] Turn on GitHub Pages
+- [x] This item is complete
+- [ ] This item is not complete
 ##### Small words
 ###### Smallest words
